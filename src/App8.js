@@ -1,5 +1,5 @@
 
-import React from 'react'
+// import React from 'react'
 
 function App8() {
     function fun1(){
