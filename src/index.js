@@ -10,14 +10,14 @@ import App from './App';
 // import App1 from './App1';
 // import Calc from './Calc';
 // import reportWebVitals from './reportWebVitals';
-// import Block from './Block';
-// import EstoreHeader from './EstoreHeader';
+import Block from './Block';
+import EstoreHeader from './EstoreHeader';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
     {/* <App1 a={2} b={2}/> */}
     {/* <Calc a={2} b={2}/> */}
 
@@ -27,8 +27,8 @@ root.render(
     {/* <App3 names={{name:"Hello", age:20}}/> */}
     {/* <App4/> */}
     {/* <App5/> */}
-    {/* <EstoreHeader/>
-    <Block/> */}
+    <EstoreHeader/>
+    <Block/>
   </React.StrictMode>
 );
 
