@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App3 from './App3';
 // import UseState from './UseState';
-import UseState2 from './UseState2';
+// import UseState2 from './UseState2';
+import UseState3 from './UseState3';
 // import App from './App';
 // import App8 from './App8';
 // import App3 from './App3';
@@ -24,7 +25,7 @@ root.render(
   //     <EstoreHeader/>
   //       <Block/> 
   // </React.StrictMode>
-  <UseState2/>
+  <UseState3/>
   
 );
 
@@ -36,6 +37,7 @@ root.render(
 
 
 // <React.StrictMode>
+{/* <UseState2/> */}
     {/* <App /> */}
     {/* <App1 a={2} b={2}/> */}
     {/* <Calc a={2} b={2}/> */}
