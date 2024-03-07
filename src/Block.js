@@ -2,7 +2,11 @@
 // import pondi from './pondi.jfif';
 // import coorg from './coorag.jpg';
 function Block(){
-    let arr = [{image:'./Images/Kerala.jpg'},{image:'./Images/pondi.jfif'},{image:'./Images/coorag.jpg'}]
+    let arr = [
+        {image:'./src/images/Kerala.jpg'},
+        {image:'/images/pondi.jfif'},
+        {image:'/images/coorag.jpg'}
+    ]
 
     return (
     <div className="main-cont">
