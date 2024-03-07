@@ -1,22 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App3 from './App3';
-// import UseState from './UseState';
-// import UseState2 from './UseState2';
 import UseState3 from './UseState3';
-// import App from './App';
-// import App8 from './App8';
-// import App3 from './App3';
-// import App4 from './App4';
-// import App5 from './App5';
-// import Result from './Result'
-// import App2 from './App2';
-// import App1 from './App1';
-// import Calc from './Calc';
-// import reportWebVitals from './reportWebVitals';
-// import Block from './Block';
-// import EstoreHeader from './EstoreHeader';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
