@@ -7,11 +7,17 @@ function UseState2() {
     const [wickets,setCount2] = useState(0)
 
     useEffect(() =>{
-        // if(wickets>0){
+        if(wickets>0){
             console.log("better luck nextTime")
-        // }
+        }
         
     },[wickets])
+    useEffect(() =>{
+        if(runs>0){
+            console.log("Great")
+        }
+        
+    },[runs])
     return (
       // <div>
       //     <button onClick={()=>setCount((prevState) => prevState+1)}>Click</button>
