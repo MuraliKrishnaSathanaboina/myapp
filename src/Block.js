@@ -3,7 +3,7 @@
 // import coorg from './coorag.jpg';
 function Block(){
     let arr = [
-        {image:'./src/images/Kerala.jpg'},
+        {image:'myapp/Assets/images/Kerala.jpg'},
         {image:'/images/pondi.jfif'},
         {image:'/images/coorag.jpg'}
     ]
