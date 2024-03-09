@@ -1,17 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import StateExamples from './StateExamples';
-import Block from './Block';
+
+import RouterExp from './RouterExp';
+
 
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- 
-  <StateExamples/>
+//  <Calc a={10} b={20}/>
+  // <StateExamples/>
   // <Block/>
+  <RouterExp/>
 );
 
 
