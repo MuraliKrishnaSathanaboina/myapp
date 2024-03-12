@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuraliKrishnaSathanaboina/myapp/static/css/main.e6c13ad2.css",
+    "main.js": "/MuraliKrishnaSathanaboina/myapp/static/js/main.f7c0b73b.js",
+    "index.html": "/MuraliKrishnaSathanaboina/myapp/index.html",
+    "main.e6c13ad2.css.map": "/MuraliKrishnaSathanaboina/myapp/static/css/main.e6c13ad2.css.map",
+    "main.f7c0b73b.js.map": "/MuraliKrishnaSathanaboina/myapp/static/js/main.f7c0b73b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f7c0b73b.js"
+  ]
+}
